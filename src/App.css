@@ -1,38 +1,44 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-family: "Noto Sans KR", sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container {
+  background-color: #202027;
+  padding: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+  font-size: 28px;
+  font-weight: 700;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+h3 {
+  margin: 0px auto 10px 0px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+section.highmovies {
+  border-top: 1px solid #4d4d59;
+  border-bottom: 1px solid #4d4d59;
+  background-color: #3c3c47;
+  margin: 20px -20px;
+  padding: 20px;
+}
+
+.highmovies__item {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  overflow-x: scroll;
+  white-space: nowrap;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  border-radius: 4px;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.highmovies__item::-webkit-scrollbar {
+  display: none;
 }
