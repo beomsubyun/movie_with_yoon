@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/movie_with_yoon/static/css/main.4e56e398.chunk.css",
-    "main.js": "/movie_with_yoon/static/js/main.f4ad7994.chunk.js",
-    "main.js.map": "/movie_with_yoon/static/js/main.f4ad7994.chunk.js.map",
+    "main.css": "/movie_with_yoon/static/css/main.ef39a8f5.chunk.css",
+    "main.js": "/movie_with_yoon/static/js/main.ee8b45db.chunk.js",
+    "main.js.map": "/movie_with_yoon/static/js/main.ee8b45db.chunk.js.map",
     "runtime-main.js": "/movie_with_yoon/static/js/runtime-main.c5ff85a3.js",
     "runtime-main.js.map": "/movie_with_yoon/static/js/runtime-main.c5ff85a3.js.map",
     "static/js/2.dcece17e.chunk.js": "/movie_with_yoon/static/js/2.dcece17e.chunk.js",
     "static/js/2.dcece17e.chunk.js.map": "/movie_with_yoon/static/js/2.dcece17e.chunk.js.map",
     "index.html": "/movie_with_yoon/index.html",
-    "static/css/main.4e56e398.chunk.css.map": "/movie_with_yoon/static/css/main.4e56e398.chunk.css.map",
+    "static/css/main.ef39a8f5.chunk.css.map": "/movie_with_yoon/static/css/main.ef39a8f5.chunk.css.map",
     "static/js/2.dcece17e.chunk.js.LICENSE.txt": "/movie_with_yoon/static/js/2.dcece17e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c5ff85a3.js",
     "static/js/2.dcece17e.chunk.js",
-    "static/css/main.4e56e398.chunk.css",
-    "static/js/main.f4ad7994.chunk.js"
+    "static/css/main.ef39a8f5.chunk.css",
+    "static/js/main.ee8b45db.chunk.js"
   ]
 }
